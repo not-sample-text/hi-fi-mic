@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "THAT1512")(type "KiCad")(uri "${KIPRJMOD}/Imports/Symbols/1512P08-U.kicad_sym")(options "")(descr ""))
+)
