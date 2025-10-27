@@ -2,8 +2,8 @@
 
 A custom PCB for the high-fidelity microphone project by DIY Perks, redesigned from the original stripboard version for a cleaner and more reliable build.
 
-![PCB Front](<Other Files/mic_base_pcb.png>)
-![PCB Back](<Other Files/mic_base_pcb_back.png>)
+![PCB Front](<mic_base/Other Files/mic_base_pcb.png>)
+![PCB Back](<mic_base/Other Files/mic_base_pcb_back.png>)
 
 ## Table of Contents
 
@@ -29,14 +29,14 @@ This project provides a dedicated PCB for the Hi-Fi microphone circuit originall
 
 The project was designed in KiCad and consists of a single two-layer board.
 
-- **[Schematic PDF](<Other Files/mic_base_schematic.pdf>)**
-- **[PCB Layout PDF](<Other Files/mic_base_layout.pdf>)**
+- **[Schematic PDF](<mic_base/Other Files/mic_base_schematic.pdf>)**
+- **[PCB Layout PDF](<mic_base/Other Files/mic_base_layout.pdf>)**
 
 ### PCB Renders
 
-|                  Front View                  |                    Back View                     |                    Initial Design                    |
-| :------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------: |
-| ![PCB Front](<Other Files/mic_base_pcb.png>) | ![PCB Back](<Other Files/mic_base_pcb_back.png>) | ![Initial PCB Design](<Other Files/initial_pcb.png>) |
+|                       Front View                      |                        Back View                          |                         Initial Design                        |
+| :---------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![PCB Front](<mic_base/Other Files/mic_base_pcb.png>) | ![PCB Back](<mic_base/Other Files/mic_base_pcb_back.png>) | ![Initial PCB Design](<mic_base/Other Files/initial_pcb.png>) |
 
 ## Project Structure
 
