@@ -5277,7 +5277,7 @@
 		(dnp no)
 		(uuid "1f84babf-585a-4e0d-9d7e-fa9fd6a37bb7")
 		(property "Reference" "R3"
-			(at 81.28 92.456 0)
+			(at 79.756 93.218 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5294,7 +5294,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 81.28 91.44 0)
 			(effects
 				(font
@@ -5362,7 +5362,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 124.46 67.31 0)
 			(effects
 				(font
@@ -5432,7 +5432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 124.46 36.83 0)
 			(effects
 				(font
@@ -5502,7 +5502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 80.01 74.93 0)
 			(effects
 				(font
@@ -5554,7 +5554,7 @@
 		(dnp no)
 		(uuid "2f2afd76-8dba-4675-8738-efd9524e7268")
 		(property "Reference" "R4"
-			(at 81.026 85.344 0)
+			(at 82.55 88.138 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5571,7 +5571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 81.28 86.36 0)
 			(effects
 				(font
@@ -5915,7 +5915,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 119.38 73.66 0)
 			(effects
 				(font
@@ -5984,7 +5984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D7.5mm_W2.5mm_P5.00mm"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 80.01 69.85 0)
 			(effects
 				(font
@@ -6125,7 +6125,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 124.46 46.99 0)
 			(effects
 				(font
@@ -6264,7 +6264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 130.81 67.31 0)
 			(effects
 				(font
@@ -6398,7 +6398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 80.01 66.04 0)
 			(effects
 				(font
@@ -6814,7 +6814,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_THT_AKL:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
 			(at 80.01 78.74 0)
 			(effects
 				(font

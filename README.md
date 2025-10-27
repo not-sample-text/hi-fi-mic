@@ -1,32 +1,70 @@
 # Hi-Fi Microphone PCB
 
-This project is a KiCad PCB design for the high-fidelity microphone circuit originally created by [DIY Perks](https://www.youtube.com/watch?v=LoQu3XXIayc). Unlike the original stripboard build, this version uses a custom-designed PCB for a more robust and professional result.
+A custom PCB for the high-fidelity microphone project by DIY Perks, redesigned from the original stripboard version for a cleaner and more reliable build.
 
-## Project Files
+![PCB Front](<Other Files/mic_base_pcb.png>)
+![PCB Back](<Other Files/mic_base_pcb_back.png>)
 
-- **KiCad Project**: `mic_base.kicad_pro`
-- **Schematic**: `mic_base.kicad_sch`
-- **PCB Layout**: `mic_base.kicad_pcb`
-- **Assets**: Custom symbols, footprints, and 3D models are in the `Imports/` directory.
+## Table of Contents
 
-## Documentation & Renders
+- [Overview](#overview)
+- [Features](#features)
+- [PCB Design](#pcb-design)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Credits](#credits)
 
-- **[Schematic PDF](<mic_base/Other Files/mic_base_schematic.pdf>)**
-- **[PCB Layout PDF](<mic_base/Other Files/mic_base_layout.pdf>)**
+## Overview
 
-**PCB Renders:**
+This project provides a dedicated PCB for the Hi-Fi microphone circuit originally demonstrated by [DIY Perks](https://www.youtube.com/watch?v=LoQu3XXIayc). While the original build used a stripboard, this KiCad project offers a custom-designed PCB, making the assembly process more straightforward and the final product more durable and professional.
 
-|                         Front                         |                           Back                            |                            Initial                            |
-| :---------------------------------------------------: | :-------------------------------------------------------: | :-----------------------------------------------------------: |
-| ![PCB Front](<mic_base/Other Files/mic_base_pcb.png>) | ![PCB Back](<mic_base/Other Files/mic_base_pcb_back.png>) | ![Initial PCB Design](<mic_base/Other Files/initial_pcb.png>) |
+## Features
+
+- **Dedicated PCB Design**: Eliminates complex wiring on stripboard, improving reliability.
+- **Compact & Clean Layout**: Components are organized for a tidy and space-efficient build.
+- **Easy Assembly**: Through-hole components and clear labeling simplify the soldering process.
+- **Professional Finish**: Achieve a high-quality result comparable to commercial products.
+
+## PCB Design
+
+The project was designed in KiCad and consists of a single two-layer board.
+
+- **[Schematic PDF](<Other Files/mic_base_schematic.pdf>)**
+- **[PCB Layout PDF](<Other Files/mic_base_layout.pdf>)**
+
+### PCB Renders
+
+|                  Front View                  |                    Back View                     |                    Initial Design                    |
+| :------------------------------------------: | :----------------------------------------------: | :--------------------------------------------------: |
+| ![PCB Front](<Other Files/mic_base_pcb.png>) | ![PCB Back](<Other Files/mic_base_pcb_back.png>) | ![Initial PCB Design](<Other Files/initial_pcb.png>) |
+
+## Project Structure
+
+```
+hi-fi-mic/
+├── Imports/                  # Custom 3D models, footprints, and symbols
+├── Other Files/              # Documentation (PDFs) and images
+├── mic_base.kicad_pcb        # KiCad PCB layout file
+├── mic_base.kicad_pro        # Main KiCad project file
+├── mic_base.kicad_sch        # KiCad schematic file
+└── README.md                 # This file
+```
 
 ## Getting Started
 
-1.  Open `mic_base.kicad_pro` in KiCad.
-2.  To manufacture, export Gerber files from the PCB editor (`File > Fabrication Outputs > Gerbers`).
-3.  Refer to the schematic for the Bill of Materials (BOM) and follow the original [DIY Perks video](https://www.youtube.com/watch?v=LoQu3XXIayc) for assembly and testing.
+### Hardware Assembly
+
+1.  **Manufacture the PCB**: Use the KiCad project files to export Gerbers and order the board from a PCB fabrication service.
+2.  **Gather Components**: Refer to the schematic for the complete Bill of Materials (BOM).
+3.  **Solder Components**: Assemble the board, starting with the lowest-profile components first.
+4.  **Testing**: Follow the testing and calibration steps shown in the original [DIY Perks video](https://www.youtube.com/watch?v=LoQu3XXIayc).
+
+### Opening the Project
+
+1.  Install [KiCad](https://www.kicad.org/) 7.0 or later.
+2.  Open the `mic_base.kicad_pro` file to access the schematic and PCB layout.
 
 ## Credits
 
-- **Original Project**: [DIY Perks](https://www.youtube.com/c/DIYPerks)
-- **PCB Design**: This project
+- **Original Circuit Concept**: [DIY Perks](https://www.youtube.com/c/DIYPerks)
+- **PCB Redesign**: This project.
